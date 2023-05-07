@@ -60,13 +60,6 @@ translator:
     - "xlit|v|ü|"
     - xform/iü/iv/
 
-reverse_lookup:
-  dictionary: luna_pinyin
-  prefix: "`"
-  tips: 〔PinYin〕
-  preedit_format:
-    - xform/([nljqxy])v/$1ü/
-
 punctuator:
   import_preset: default
 
