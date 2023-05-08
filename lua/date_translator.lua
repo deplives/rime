@@ -3,11 +3,11 @@ local function date_translator(input, seg, env)
     if not env.date then
         local config = env.engine.schema.config
         env.name_space = env.name_space:gsub("^*", "")
-        env.date = config:get_string(env.name_space .. "/date") or "rq"
-        env.time = config:get_string(env.name_space .. "/time") or "sj"
-        env.week = config:get_string(env.name_space .. "/week") or "xq"
-        env.datetime = config:get_string(env.name_space .. "/datetime") or "dt"
-        env.timestamp = config:get_string(env.name_space .. "/timestamp") or "ts"
+        env.date = config:get_string(env.name_space .. "/date") or "date"
+        env.time = config:get_string(env.name_space .. "/time") or "time"
+        env.week = config:get_string(env.name_space .. "/week") or "week"
+        env.datetime = config:get_string(env.name_space .. "/datetime") or "datetime"
+        env.timestamp = config:get_string(env.name_space .. "/timestamp") or "timestamp"
     end
 
     -- 日期
@@ -22,9 +22,6 @@ local function date_translator(input, seg, env)
     -- 时间
     if (input == env.time) then
         local cand = Candidate("time", seg.start, seg._end, os.date("%H:%M:%S"), "")
-        cand.quality = 100
-        yield(cand)
-        local cand = Candidate("time", seg.start, seg._end, os.date("%H:%M"), "")
         cand.quality = 100
         yield(cand)
     end
@@ -43,12 +40,9 @@ local function date_translator(input, seg, env)
         cand.quality = 100
         yield(cand)
     end
-    -- ISO 8601/RFC 3339 的时间格式
+    -- 日期时间
     if (input == env.datetime) then
-        local cand = Candidate("datetime", seg.start, seg._end, os.date("%Y-%m-%dT%H:%M:%S+08:00"), "")
-        cand.quality = 100
-        yield(cand)
-        local cand = Candidate("time", seg.start, seg._end, os.date("%Y%m%d%H%M%S"), "")
+        local cand = Candidate("datetime", seg.start, seg._end, os.date("%Y-%m-%d %H:%M:%S"), "")
         cand.quality = 100
         yield(cand)
     end
