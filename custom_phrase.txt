@@ -7,10 +7,7 @@
 # 此行之后不能写注释
 
 
-欻	chua
-噷	hm
 哼	hng
-
 
 去	q	2
 千	q	1
@@ -193,19 +190,3 @@
 什么的	smd
 什么是	sms
 什么啊	sma
-
-
-Go	go	2
-go	go	1
-Golang	golang
-Hugo	hugo
-goto	goto
-domain	domain
-TODO	todo
-Dota	dota
-main	main
-Amazon	amazon
-NASA	nasa
-gone	gone
-Go程	gocheng
-code	code
