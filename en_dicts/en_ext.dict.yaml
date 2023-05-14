@@ -4,7 +4,7 @@
 
 ---
 name: en_ext
-version: "2023-05-06"
+version: "2023-05-14"
 sort: by_weight
 ...
 
@@ -46,9 +46,9 @@ April	April
 Apr.	Apr
 April	Apr
 May	May
-June	June
 June	Jun
-July	July
+June	Jun
+July	Jul
 August	August
 Aug.	Aug
 August	Aug
@@ -180,7 +180,7 @@ ERC-20	ERC
 ERC-721	ERC
 ERC-1155	ERC
 
-
+TypeORM	TypeORM
 Griffiths	Griffiths
 Chapman	Chapman
 Walsh	Walsh
@@ -431,6 +431,7 @@ CallKit	CallKit
 OSS	OSS
 Object Storage Service	OSS
 Object Storage Service	ObjectStorageService
+OceanBase	OceanBase
 YouTube Music	YouTubeMusic
 Apple Music	AppleMusic
 TED	TED
@@ -470,6 +471,8 @@ Portable Document Format	PDF
 Portable Document Format	PortableDocumentFormat
 QuickTime Player	QuickTimePlayer
 CSDN	CSDN
+Gitee	Gitee
+Gitea	Gitea
 GitBook	GitBook
 Gboard	Gboard
 Access	Access
@@ -487,6 +490,7 @@ Chief Technology Officer	CTO
 Chief Technology Officer	ChiefTechnologyOfficer
 Coding	Coding
 Django	Django
+DBMesh	DBMesh
 Excel	Excel
 Flask	Flask
 Facebook	Facebook
@@ -1325,7 +1329,6 @@ McCafe	McCafe
 BSD	BSD
 Berkeley Software Distribution	BSD
 Berkeley Software Distribution	BerkeleySoftwareDistribution
-Berkeley	Berkeley
 DNSPod	DNSPod
 Bandizip	Bandizip
 NATO	NATO
@@ -2063,6 +2066,9 @@ stargazers	stargazers
 fallback	fallback
 Fyne	Fyne
 Claude	Claude
+Claude+	Claude
+Anthropic	Anthropic
+Poe	Poe
 overdue	overdue
 Cinderella	Cinderella
 WebGPU	WebGPU
@@ -2146,6 +2152,7 @@ DeepMind	DeepMind
 Google DeepMind	GoogleDeepMind
 TL;DR	TLDR
 Ant-Man	AntMan
+Spider-Man	SpiderMan
 ungoogled	ungoogled
 ungoogled-chromium	ungoogledchromium
 taxman	taxman
@@ -2166,3 +2173,8 @@ disjunction	disjunction
 heil	heil
 maintainers	maintainers
 AmyTelecom	AmyTelecom
+Patreon	Patreon
+Anaconda	Anaconda
+LLaMA	LLaMA
+Large Language Model Meta AI	LLaMA
+fellatio	fellatio
