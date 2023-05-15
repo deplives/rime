@@ -1,4 +1,4 @@
--- 为用户词典中（输入过）的内容结尾加上一个星号 *
+-- 为用户词典的内容结尾加上一个星号 *
 local function is_in_user_dict(input, env)
     for cand in input:iter() do
         if (string.find(cand.type, "user")) then
