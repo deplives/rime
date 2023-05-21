@@ -67,7 +67,7 @@ engine:
   filters:
     - simplifier@emoji                    # Emoji
     - simplifier@traditionalize           # 简繁切换
-    # - lua_filter@is_in_user_dict          # 为用户词典中（输入过）的内容结尾加上一个星号 *
+    # - lua_filter@is_in_user_dict          # 为用户词典的内容结尾加上一个星号 *
     - lua_filter@v_filter                 # v 模式 symbols 优先（否则是英文优先）
     - lua_filter@reduce_english_filter    # 降低部分英语单词在候选项的位置
     - lua_filter@long_word_filter         # 长词优先
@@ -183,7 +183,7 @@ recognizer:
     punct: "^v([0-9]|10|[A-Za-z]+)$"  # 响应 symbols_v.yaml 的 symbols，用 'v' 替换 '/'
     reverse_lookup: "^u[a-z]+$"       # 响应两分拼字的反查
     unicode: "^U[a-f0-9]+"            # 响应 Unicode
-    number: "^R[0-9]+[.]?[0-9]*"      # 响应 number_translator
+    number: "^N[0-9]+[.]?[0-9]*"      # 响应 number_translator
 
 
 # 从 default 继承快捷键
