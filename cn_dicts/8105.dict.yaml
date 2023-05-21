@@ -1,19 +1,19 @@
 # Rime dictionary
 # encoding: utf-8
-#
 
 ---
 name: 8105
-version: "2023-05-06"
+version: "2023-05-21"
 sort: by_weight
 ...
 
+这	zhei	17648808
+那	nei	9929703
 
-𰻝	biang	1
 嬢	niang	1
 薙	ti	1
 菈	la	1
-卻	que	1
+卻	que	
 
 嗯	eng	9179528
 欸	ei	534
@@ -1752,8 +1752,8 @@ sort: by_weight
 旮	ga	3168
 尕	ga	1817
 尜	ga	195
+轧	ga	100
 钆	ga	20
-夹	ga	1
 该	gai	1351318
 改	gai	495567
 盖	gai	229688
@@ -3187,6 +3187,7 @@ sort: by_weight
 莙	jun	15
 晙	jun	6
 筠	jun	1
+隽	jun	1
 鲪	jun	1
 龟	jun	1
 䐃	jun	0
@@ -3317,9 +3318,9 @@ sort: by_weight
 𫸩	kou	0
 苦	ku	810172
 哭	ku	447753
+酷	ku	203579
 库	ku	116418
 裤	ku	116368
-酷	ku	103579
 枯	ku	61044
 骷	ku	39696
 窟	ku	24923

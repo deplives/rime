@@ -3,14 +3,13 @@
 
 ---
 name: rime_ice
-version: "2023-05-06"
+version: "2023-05-12"
 import_tables:
   - cn_dicts/8105     # 字表
   - cn_dicts/base     # 基础词库
   - cn_dicts/ext      # 扩展词库
   - cn_dicts/tencent  # 腾讯词向量
-  - cn_dicts/others   # 杂项
 
   # 扩展词库
-  # - cn_dicts/mydict
+  # - cn_dicts/custom_dict
 ...
