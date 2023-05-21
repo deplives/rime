@@ -1,13 +1,11 @@
 # Rime dictionary
 # encoding: utf-8
-#
 
 ---
 name: cn_en
-version: "2023-05-06"
+version: "2023-05-21"
 sort: by_weight
 ...
-
 
 X光	Xguang
 X光片	Xguangpian
@@ -127,7 +125,6 @@ G盘	Gpan
 IP地址	IPdizhi
 IP电话	IPdianhua
 IP卡	IPka
-IP地址	IPweizhi
 J盘	Jpan
 K宝	Kbao
 K粉	Kfen
@@ -170,7 +167,7 @@ N遍	Nbian
 马歇尔·D·蒂奇	maxieerDdiqi
 X·德雷克	Xdeleike
 蒙奇·D·卡普	mengqiDkapu
-波特卡斯·D·艾斯	potekasiDaisi
+波特卡斯·D·艾斯	botekasiDaisi
 VIP中P	VIPzhongP
 QQ秀	QQxiu
 Big胆	Bigdan
@@ -199,7 +196,7 @@ P个图	Pgetu
 P一下	Pyixia
 芭比Q	babiQ
 芭比Q了	babiQle
-S级	sji
+S级	Sji
 QQ堂	QQtang
 PIN码	PINma
 PUK码	PUKma
@@ -298,6 +295,7 @@ Delete键	Deletejian
 Esc键	Escjian
 Eject键	Ejectjian
 J·K·罗琳	JKluolin
+周刊少年Jump	zhoukanshaonianJump
 ICP备案	ICPbeian
 啥Bug	shaBug
 有Bug	youBug
@@ -307,12 +305,12 @@ ICP备案	ICPbeian
 提Bug	tiBug
 写Bug	xieBug
 改Bug	gaiBug
-异维A酸	weiyiAsuan
+J·R·R·托尔金	JRRtuoerjin
+异维A酸	yiweiAsuan
 互fo	hufo
 减CD	jianCD
 随身Wi-Fi	suishenWiFi
 U型锁	Uxingsuo
-查IP	chaIP
 Go程	Gocheng
 TG群	TGqun
 Telegram群	Telegramqun
@@ -335,12 +333,12 @@ S码	Sma
 L码	Lma
 Q我	Qwo
 R级	Rji
-A区	Aqv
-B区	Bqv
-C区	Cqv
-D区	Dqv
-E区	Eqv
-F区	Fqv
+A区	Aqu
+B区	Bqu
+C区	Cqu
+D区	Dqu
+E区	Equ
+F区	Fqu
 A组	Azu
 B组	Bzu
 C组	Czu
@@ -456,6 +454,7 @@ DJ舞曲	DJwuqu
 就OK	jiuOK
 不OK	buOK
 很OK	henOK
+特拉法尔加·D·瓦铁尔·罗	telafaerjiaDwatieerluo
 开party	kaiparty
 Chromium系	Chromiumxi
 Chrome系	Chromexi

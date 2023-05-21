@@ -1,6 +1,5 @@
 # Rime dictionary
 # encoding: utf-8
-#
 
 ---
 name: en_ext
@@ -8,10 +7,10 @@ version: "2023-05-14"
 sort: by_weight
 ...
 
-
 &nbsp;	nbsp
 <br>	br
 .DS_Store	DSStore
+README.md	READMEmd
 
 Fn	Fn
 Cmd	Cmd
@@ -46,9 +45,9 @@ April	April
 Apr.	Apr
 April	Apr
 May	May
+June	June
 June	Jun
-June	Jun
-July	Jul
+July	July
 August	August
 Aug.	Aug
 August	Aug
@@ -331,7 +330,6 @@ AlphaGo	AlphaGo
 AlphaFold	AlphaFold
 Valve	Valve
 CS:GO	CSGO
-Counter-Strike: Global Offensive	CSGO
 Counter-Strike	CounterStrike
 Tesla	Tesla
 Polo	Polo
@@ -2178,3 +2176,10 @@ Anaconda	Anaconda
 LLaMA	LLaMA
 Large Language Model Meta AI	LLaMA
 fellatio	fellatio
+silo	silo
+R.I.P	RIP
+requiescat	requiescat
+AIGC	AIGC
+AI Generated Content	AIGC
+Presto	Presto
+presto	presto
