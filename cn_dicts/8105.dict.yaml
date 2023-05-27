@@ -3,17 +3,12 @@
 
 ---
 name: 8105
-version: "2023-05-21"
+version: "2023-05-27"
 sort: by_weight
 ...
 
 这	zhei	17648808
 那	nei	9929703
-
-嬢	niang	1
-薙	ti	1
-菈	la	1
-卻	que	
 
 嗯	eng	9179528
 欸	ei	534
@@ -8362,6 +8357,7 @@ sort: by_weight
 肫	zhun	178
 窀	zhun	41
 衠	zhun	10
+屯	zhun	1
 𬘯	zhun	0
 桌	zhuo	346095
 卓	zhuo	118671
