@@ -6,7 +6,7 @@
 schema:
   schema_id: rime_ice
   name: 雾凇拼音
-  version: "2023-05-14"
+  version: "2023-05-27"
   author:
     - Bob
   description: |
@@ -215,7 +215,6 @@ speller:
     - xlit/āḃçďēḟḡĥīĵḱĺḿńōṕɋŕśťūṽẃẋȳź/ABCDEFGHIJKLMNOPQRSTUVWXYZ/
 
     ### 自动纠错
-    # 有些规则对全拼简拼混输有副作用：如「x'ai 喜爱」被纠错为「xia 下」
     # zh、ch、sh
     - derive/([zcs])h(a|e|i|u|ai|ei|an|en|ou|uo|ua|un|ui|uan|uai|uang|ang|eng|ong)$/h$1$2/  # hzi → zhi
     - derive/([zcs])h([aeiu])$/$1$2h/  # zih → zhi
@@ -231,7 +230,6 @@ speller:
     - derive/([rtypsdghklzcbnm])ao$/$1oa/
     # ou
     - derive/([ypfm])ou$/$1uo/
-    # uo（无）
     # an
     - derive/([wrtypsdfghklzcbnm])an$/$1na/
     # en
@@ -257,7 +255,6 @@ speller:
     - derive/([qjlxnm])iu$/$1ui/
     # ian
     - derive/([qtpdjlxbnm])ian$/$1ain/
-    # - derive/([qtpdjlxbnm])ian$/$1ina/ # 和「李娜、蒂娜、缉拿」等常用词有冲突
     # in
     - derive/([qypjlxbnm])in$/$1ni/
     # iang
