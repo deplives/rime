@@ -57,7 +57,7 @@ local function select_character(key, env)
             engine:commit_text(utf8_sub(context:get_selected_candidate().text, 1, 1))
             context:clear()
         end
-        
+
         return 1
     end
 
