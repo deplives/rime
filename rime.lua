@@ -14,3 +14,5 @@ reduce_english_filter = require("reduce_english_filter")
 long_word_filter = require("long_word_filter")
 -- 人民币大写
 number_translator = require("number_translator")
+-- 英文自动大写
+autocap_filter = require("autocap_filter")

@@ -8,13 +8,12 @@ schema:
   version: "1.0.0"
   author:
     - Bob
-  description:
-    Easy English Nano
+  description: Easy English Nano
 
 switches:
   - name: ascii_mode
     reset: 0
-    states: [ ASCII-OFF, ASCII-ON ]
+    states: [ASCII-OFF, ASCII-ON]
 
 engine:
   processors:
@@ -41,11 +40,24 @@ speller:
   alphabet: zyxwvutsrqponmlkjihgfedcbaZYXWVUTSRQPONMLKJIHGFEDCBA-_
   delimiter: " '"
   algebra:
+    # 删除特殊字符
     - derive/['\-_+,.]+//
-    - derive/^(.+)$/\L$1/
-    - derive/^([a-z].+)$/\U$1/
-    - derive/^([a-zA-Z])/\U$1/
-    - derive/^([a-z][a-z])/\U$1/
+    # 全小写
+    - derive/^.+$/\L$0/
+    # 全大写
+    - derive/^.+$/\U$0/
+    # 首字母大写
+    - derive/^./\U$0/
+    # 前 2~10 个字母大写
+    - derive/^([a-z]{2})/\U$1/
+    - derive/^([a-z]{3})/\U$1/
+    - derive/^([a-z]{4})/\U$1/
+    - derive/^([a-z]{5})/\U$1/
+    - derive/^([a-z]{6})/\U$1/
+    - derive/^([a-z]{7})/\U$1/
+    - derive/^([a-z]{8})/\U$1/
+    - derive/^([a-z]{9})/\U$1/
+    - derive/^([a-z]{10})/\U$1/
 translator:
   dictionary: melt_eng
   spelling_hints: 9
