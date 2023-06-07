@@ -26,13 +26,12 @@ local function autocap_filter(input, env)
         codeUCase = true
     end
 
-    local pureCode = code:gsub("[%s%p]", "")     -- 删除标点和空格的输入码
+    local pureCode = code:gsub("[%s%p]", "")          -- 删除标点和空格的输入码
     for cand in input:iter() do
-        local text = cand.text                   -- 候选词
-        local pureText = text:gsub("[%s%p]", "") -- 删除标点和空格的候选词
+        local text = cand.text                        -- 候选词
+        local pureText = text:gsub("[%s%p]", "")      -- 删除标点和空格的候选词
         -- 不转换
-        if
-            text:find("[^%w%p%s]") or                 -- 候选词包含非字母和数字、非标点符号、非空格的字符
+        if text:find("[^%w%p%s]") or                  -- 候选词包含非字母和数字、非标点符号、非空格的字符
             text:find("%s") or                        -- 候选词中包含空格
             pureText:find("^" .. code) or             -- 输入码完全匹配候选词
             (cand.type ~= "completion" and            -- 单词与其对应的编码不一致
