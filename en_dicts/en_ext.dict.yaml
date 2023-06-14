@@ -3,7 +3,7 @@
 
 ---
 name: en_ext
-version: "2023-05-27"
+version: "2023-06-14"
 sort: by_weight
 ...
 
@@ -1465,12 +1465,8 @@ Neat Download Manager	NeatDownloadManager
 furry	furry
 Maine	Maine
 Elijah	Elijah
-Love & Peace	LoveandPeace
-Love & Peace	LovePeace
-Love and Peace	LoveandPeace
-Peace & Love	PeaceLove
-Peace & Love	PeaceandLove
-Peace and Love	PeaceandLove
+Love & Peace	Love&Peace
+Peace & Love	Peace&Love
 Liquid	Liquid
 LCD	LCD
 Liquid Crystal Display	LCD
