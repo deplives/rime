@@ -3,7 +3,7 @@
 
 ---
 name: en
-version: "2023-05-27"
+version: "2023-06-17"
 sort: by_weight
 ...
 
@@ -434,7 +434,7 @@ aiming	aiming
 aims	aims
 air	air
 airborne	airborne
-air-conditioning	airconditioning
+air-conditioning	air-conditioning
 aircraft	aircraft
 aired	aired
 aires	aires
@@ -846,7 +846,7 @@ apology	apology
 apoptosis	apoptosis
 apostle	apostle
 apostles	apostles
-App	App
+app	app
 appal	appal
 Appalachian	Appalachian
 apparatus	apparatus
@@ -922,7 +922,7 @@ approx	approx
 approximate	approximate
 approximately	approximately
 approximation	approximation
-Apps	Apps
+apps	apps
 Apr.	Apr
 April	April
 apron	apron
@@ -1987,7 +1987,7 @@ blue	blue
 bluegrass	bluegrass
 blueprint	blueprint
 blues	blues
-bluetooth	bluetooth
+Bluetooth	Bluetooth
 bluff	bluff
 blunder	blunder
 blunt	blunt
@@ -2004,7 +2004,6 @@ boasts	boasts
 boat	boat
 boating	boating
 boats	boats
-bob	bob
 Bob	Bob
 bobby	bobby
 BOC	BOC
@@ -2467,7 +2466,7 @@ by	by
 bye	bye
 bylaws	bylaws
 bypass	bypass
-by-product	byproduct
+by-product	by-product
 Byrd	Byrd
 Byrne	Byrne
 Byron	Byron
@@ -5759,7 +5758,7 @@ Elsevier	Elsevier
 elsewhere	elsewhere
 Elton	Elton
 elvis	elvis
-emacs	emacs
+Emacs	Emacs
 email	email
 emailed	emailed
 emails	emails
@@ -6767,7 +6766,7 @@ firmware	firmware
 first	first
 FirstGov	FirstGov
 firstly	firstly
-first-rate	firstrate
+first-rate	first-rate
 fiscal	fiscal
 Fischer	Fischer
 fish	fish
@@ -6925,7 +6924,7 @@ follower	follower
 followers	followers
 following	following
 follows	follows
-follow-up	followup
+follow-up	follow-up
 fond	fond
 font	font
 fonts	fonts
@@ -7086,7 +7085,7 @@ Francois	Francois
 francs	francs
 frank	frank
 Frank	Frank
-Frankfurt	frankfurt
+Frankfurt	Frankfurt
 Frankie	Frankie
 franklin	franklin
 frankly	frankly
@@ -7772,7 +7771,7 @@ growers	growers
 growing	growing
 growl	growl
 grown	grown
-grown-up	grownup
+grown-up	grown-up
 grows	grows
 growth	growth
 grumble	grumble
@@ -9228,7 +9227,7 @@ isolates	isolates
 isolation	isolation
 ISP	ISP
 Israel	Israel
-Israeli	israeli
+Israeli	Israeli
 Israelis	Israelis
 ISSN	ISSN
 issuance	issuance
@@ -9241,7 +9240,7 @@ istanbul	istanbul
 it	it
 italia	italia
 Italian	Italian
-Italiano	italiano
+Italiano	Italiano
 italic	italic
 italicized	italicized
 Italy	Italy
@@ -12459,7 +12458,7 @@ passages	passages
 passed	passed
 passenger	passenger
 passengers	passengers
-passer-by	passerby
+passer-by	passer-by
 passes	passes
 passing	passing
 passion	passion
@@ -15255,7 +15254,7 @@ sec	sec
 second	second
 secondary	secondary
 seconded	seconded
-second-hand	secondhand
+second-hand	second-hand
 secondly	secondly
 seconds	seconds
 secrecy	secrecy
@@ -15939,7 +15938,7 @@ soaps	soaps
 soar	soar
 soaring	soaring
 sober	sober
-so-called	socalled
+so-called	so-called
 soccer	soccer
 sociable	sociable
 social	social
@@ -16564,7 +16563,7 @@ struggled	struggled
 struggles	struggles
 struggling	struggling
 struts	struts
-stuart	stuart
+Stuart	Stuart
 stub	stub
 stubborn	stubborn
 stuck	stuck
@@ -17346,6 +17345,7 @@ Thompson	Thompson
 Thomson	Thomson
 thong	thong
 thongs	thongs
+Thor	Thor
 thorn	thorn
 Thornton	Thornton
 thorough	thorough
@@ -17567,7 +17567,6 @@ topographic	topographic
 topology	topology
 topped	topped
 tops	tops
-Tor	Tor
 tor	tor
 torah	torah
 torch	torch
@@ -18182,7 +18181,7 @@ upstairs	upstairs
 upstream	upstream
 uptake	uptake
 uptime	uptime
-up-to-date	uptodate
+up-to-date	up-to-date
 uptown	uptown
 upward	upward
 upwards	upwards
@@ -18496,8 +18495,7 @@ virtues	virtues
 virus	virus
 viruses	viruses
 Visa	Visa
-visa	visa
-visas	visas
+Visas	Visas
 viscous	viscous
 visibility	visibility
 visible	visible
@@ -18805,7 +18803,7 @@ welfare	welfare
 well	well
 Wellbutrin	Wellbutrin
 wellington	wellington
-well-known	wellknown
+well-known	well-known
 wellness	wellness
 wells	wells
 welsh	welsh
@@ -19137,6 +19135,7 @@ wyoming	wyoming
 xanax	xanax
 Xavier	Xavier
 Xbox	Xbox
+XEmacs	XEmacs
 Xenical	Xenical
 Xeon	Xeon
 xerox	xerox
@@ -19189,6 +19188,7 @@ York	York
 yorker	yorker
 Yorkshire	Yorkshire
 Yosemite	Yosemite
+you	you
 young	young
 younger	younger
 youngest	youngest
