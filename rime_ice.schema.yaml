@@ -99,7 +99,6 @@ reduce_english_filter:
   idx: 3
   # 要降低的单词，匹配的是输入码，即全小写。
   words: [
-    git, pull, push commit,
     hour, min, sec
   ]
 
