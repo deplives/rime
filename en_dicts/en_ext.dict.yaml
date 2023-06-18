@@ -3,7 +3,7 @@
 
 ---
 name: en_ext
-version: "2023-06-17"
+version: "2023-06-18"
 sort: by_weight
 ...
 
@@ -515,8 +515,6 @@ Portable Document Format	PDF
 Portable Document Format	PortableDocumentFormat
 QuickTime Player	QuickTimePlayer
 CSDN	CSDN
-Gitee	Gitee
-Gitea	Gitea
 GitBook	GitBook
 Gboard	Gboard
 Access	Access
