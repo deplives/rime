@@ -6,7 +6,7 @@
 schema:
   schema_id: rime_ice
   name: 雾凇拼音
-  version: "2023-06-14"
+  version: "2023-06-23"
   author:
     - Bob
   description: |
@@ -96,7 +96,7 @@ long_word_filter:
 # 降低之后： 输入 rug 得到 「1.如果 2.rug …… 」
 reduce_english_filter:
   # 降低到第 idx 个位置
-  idx: 3
+  idx: 2
   # 要降低的单词，匹配的是输入码，即全小写。
   words: [
     hour, min, sec
@@ -210,9 +210,6 @@ speller:
     - derive/^([nl])ve$/$1ue/
     - derive/^([jqxy])u/$1v/
     - derive/^([jqxy])v/$1u/
-
-    ### 可输入大写字母，做了 xlit 转写是为了适配双拼
-    - xlit/āḃçďēḟḡĥīĵḱĺḿńōṕɋŕśťūṽẃẋȳź/ABCDEFGHIJKLMNOPQRSTUVWXYZ/
 
     ### 自动纠错
     # zh、ch、sh
