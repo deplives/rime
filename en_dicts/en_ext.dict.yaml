@@ -3,7 +3,7 @@
 
 ---
 name: en_ext
-version: "2023-06-28"
+version: "2023-07-05"
 sort: by_weight
 ...
 
@@ -420,7 +420,6 @@ NameSilo	NameSilo
 localhost	localhost
 Musixmatch	Musixmatch
 G Suite	GSuite
-Visa	Visa
 CloudXNS	CloudXNS
 Bitwarden	Bitwarden
 BitComet	BitComet
@@ -456,15 +455,10 @@ NTR	NTR
 Notion	Notion
 Touch Bar	TouchBar
 DOM	DOM
-VIP	VIP
 D.VA	D.VA
-Logo	Logo
-Telnet	Telnet
 IPv4	IPv4
 IPv6	IPv6
-Unix	Unix
 Rick and Morty	RickandMorty
-Tokyo	Tokyo
 uTools	uTool
 uTools	uTools
 AirPods	AirPods
@@ -507,7 +501,6 @@ Hugo	Hugo
 Epic	Epic
 Epic Games	EpicGames
 Instagram	Instagram
-Beta	Beta
 archive	archive
 Evernote	Evernote
 PDF	PDF
@@ -539,8 +532,6 @@ Golang	Golang
 IQOS	IQOS
 Intel	Intel
 JSON	JSON
-Java	Java
-JavaScript	JavaScript
 JetBrains	JetBrains
 KTV	KTV
 MBP	MBP
@@ -579,13 +570,11 @@ V2EX	V2EX
 VSCode	VSCode
 Vue	Vue
 Vue.js	Vue.js
-Web	Web
 WebStorm	WebStorm
 Xcode	Xcode
 emoji	emoji
 exe	exe
 gakki	gakki
-hey	hey
 iMazing	iMazing
 jQuery	jQuery
 JPG	JPG
@@ -635,7 +624,6 @@ AirDrop	AirDrop
 Alfred	Alfred
 Amazon	Amazon
 Adobe	Adobe
-Atom	Atom
 Axure	Axure
 Bartender	Bartender
 Better Snap Tool	BetterSnapTool
@@ -709,7 +697,6 @@ Google Play Music	GooglePlayMusic
 Graffle	Graffle
 Handoff	Handoff
 Hazel	Hazel
-Home	Home
 HomeKit	HomeKit
 HTML	HTML
 HyperText Markup Language	HTML
@@ -849,7 +836,6 @@ SSL	SSL
 StackSocial	StackSocial
 Sublime Text	SublimeText
 TechWeb	TechWeb
-Telegram	Telegram
 Terminal	Terminal
 TestFlight	TestFlight
 Texshop	Texshop
@@ -859,7 +845,6 @@ TextWrangler	TextWrangler
 The Unarchiver	TheUnarchiver
 Thunderbird	Thunderbird
 Time Capsule	TimeCapsule
-Timing	Timing
 TinkerTool	TinkerTool
 Touch ID	TouchID
 Trello	Trello
@@ -923,7 +908,6 @@ Bitcoin	Bitcoin
 template	template
 IMDb	IMDb
 gank	gank
-buff	buff
 debuff	debuff
 MagSafe	MagSafe
 Magic UI	MagicUI
@@ -947,7 +931,6 @@ GMT	GMT
 Greenwich Mean Time	GMT
 Greenwich Mean Time	GreenwichMeanTime
 GoDaddy	GoDaddy
-Portal	Portal
 Eason	Eason
 alchemy	alchemy
 SQLAlchemy	SQLAlchemy
@@ -976,7 +959,7 @@ imgur	imgur
 Stack Overflow	StackOverflow
 PyWebIO	PyWebIO
 Launchpad	Launchpad
-Squoosh	Squoosh
+squoosh	squoosh
 cosplay	cosplay
 Gravatar	Gravatar
 copilot	copilot
@@ -1110,7 +1093,7 @@ P2P	P2P
 OPPO	OPPO
 vivo	vivo
 Uno	Uno
-Gopher	Gopher
+gopher	gopher
 GDPR	GDPR
 General Data Protection Regulation	GDPR
 Netlify	Netlify
@@ -1122,10 +1105,7 @@ Objective-C	Objective-C
 Mac mini	Macmini
 Garena	Garena
 WonderCV	WonderCV
-Spark	Spark
 WebKit	WebKit
-Blink	Blink
-Opera	Opera
 Igalia	Igalia
 WebCore	WebCore
 GNU	GNU
@@ -1271,7 +1251,6 @@ Confluence	Confluence
 followers	followers
 Skynet	Skynet
 serverless	serverless
-Air	Air
 Identifier	Identifier
 NameCheap	NameCheap
 rime-ice	rime-ice
@@ -1934,6 +1913,7 @@ authenticator	authenticator
 Depay	Depay
 Codeium	Codeium
 OpenCat	OpenCat
+OpenWrt	OpenWrt
 AWS	AWS
 Amazon Web Services	AWS
 Amazon Web Services	AmazonWebServices
@@ -2056,7 +2036,7 @@ troublemaker	troublemaker
 troublemaking	troublemaking
 espanso	espanso
 okey	okey
-okey dokey	okeydokey
+okey-dokey	okey-dokey
 CAPTCHA	CAPTCHA
 Coinbase	Coinbase
 Kraken	Kraken
@@ -2123,7 +2103,8 @@ prefixes	prefixes
 suffixes	suffixes
 DeepMind	DeepMind
 Google DeepMind	GoogleDeepMind
-TL;DR	TL;DR
+TL;DR	TLDR
+too long; didn't read	TLDR
 Ant-Man	Ant-Man
 Spider-Man	Spider-Man
 ungoogled	ungoogled
@@ -2205,3 +2186,14 @@ simplification	simplification
 simplifier	simplifier
 Loki	Loki
 panzer	panzer
+hardened	hardened
+motherfucker	motherfucker
+motherfucking	motherfucking
+dict	dict
+latte	latte
+Hughie	Hughie
+Maeve	Maeve
+hyphen	hyphen
+Oppenheimer	Oppenheimer
+UltraEdit	UltraEdit
+GoldenDict	GoldenDict
