@@ -3,7 +3,7 @@
 
 ---
 name: en_ext
-version: "2023-07-05"
+version: "2023-07-09"
 sort: by_weight
 ...
 
@@ -2197,3 +2197,10 @@ hyphen	hyphen
 Oppenheimer	Oppenheimer
 UltraEdit	UltraEdit
 GoldenDict	GoldenDict
+tokenizer	tokenizer
+Stable Diffusion	StableDiffusion
+x86	x86
+x86_64	x86-64
+x64	x64
+amd64	amd64
+arm64	arm64
