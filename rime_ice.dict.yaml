@@ -9,6 +9,7 @@ import_tables:
   - cn_dicts/base     # 基础词库
   - cn_dicts/ext      # 扩展词库
   - cn_dicts/tencent  # 腾讯词向量
+  - cn_dicts/others   # 其他易错词
 
   # 扩展词库
   # - cn_dicts/custom_dict
