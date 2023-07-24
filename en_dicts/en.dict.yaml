@@ -3,7 +3,7 @@
 
 ---
 name: en
-version: "2023-06-28"
+version: "2023-07-24"
 sort: by_weight
 ...
 
@@ -6057,7 +6057,7 @@ erroneous	erroneous
 error	error
 errors	errors
 erupt	erupt
-ESC	ESC
+Esc	Esc
 escalate	escalate
 escape	escape
 escaped	escaped
@@ -7264,8 +7264,7 @@ galactic	galactic
 galaxies	galaxies
 galaxy	galaxy
 gale	gale
-galerie	galerie
-galileo	galileo
+Galileo	Galileo
 Gallagher	Gallagher
 galleries	galleries
 gallery	gallery
@@ -11214,8 +11213,8 @@ monstrous	monstrous
 montana	montana
 monte	monte
 Montenegro	Montenegro
-monterey	monterey
-montgomery	montgomery
+Monterey	Monterey
+Montgomery	Montgomery
 month	month
 monthly	monthly
 months	months
@@ -12998,11 +12997,13 @@ pneumatic	pneumatic
 pneumonia	pneumonia
 PNG	PNG
 pocket	pocket
+Pocket PC	PocketPC
 pockets	pockets
 pod	pod
 podcast	podcast
 podcasting	podcasting
 podcasts	podcasts
+poe	poe
 poem	poem
 poems	poems
 poet	poet
@@ -17154,7 +17155,7 @@ tell	tell
 teller	teller
 telling	telling
 tells	tells
-telnet	telnet
+Telnet	Telnet
 Telstra	Telstra
 temp	temp
 Tempe	Tempe
