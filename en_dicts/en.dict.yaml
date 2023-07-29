@@ -3,7 +3,7 @@
 
 ---
 name: en
-version: "2023-07-24"
+version: "2023-07-29"
 sort: by_weight
 ...
 
@@ -15771,7 +15771,6 @@ sixth	sixth
 sixty	sixty
 size	size
 sized	sized
-sizeof	sizeof
 sizes	sizes
 sizing	sizing
 ska	ska

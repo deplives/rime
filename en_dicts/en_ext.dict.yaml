@@ -3,7 +3,7 @@
 
 ---
 name: en_ext
-version: "2023-07-24"
+version: "2023-07-29"
 sort: by_weight
 ...
 
@@ -2200,12 +2200,19 @@ arm64	arm64
 keysym	keysym
 keysyms	keysyms
 PotPlayer	PotPlayer
+Code::Blocks	CodeBlocks
 passkey	passkey
-protobuf	protobuf
 Protocol Buffers	ProtocolBuffers
+protobuf	protobuf
 interstellar	interstellar
 weirdo	weirdo
 beyatch	beyatch
 perplexity	perplexity
 masturbate	masturbate
 thorium	thorium
+iBus	iBus
+BT	BT
+corrector	corrector
+hashtag	hashtag
+ProtonMail	ProtonMail
+Elasticsearch	Elasticsearch
