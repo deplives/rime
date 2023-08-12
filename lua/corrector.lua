@@ -24,6 +24,7 @@ local corrections = {
     ["gei yu"] = { text = "给予", comment = "(jǐ yǔ)" },
     ["bin lang"] = { text = "槟榔", comment = "(bīng láng)" },
     ["zhang bai zhi"] = { text = "张柏芝", comment = "(zhāng bó zhī)" },
+    ["jia ping ao"] = { text = "贾平凹", comment = "jiǎ píng wā" },
     ["teng man"] = { text = "藤蔓", comment = "(téng wàn)" },
     ["nong tang"] = { text = "弄堂", comment = "(lòng táng)" },
     ["xin kuan ti pang"] = { text = "心宽体胖", comment = "(xīn kuān tǐ pán)" },
