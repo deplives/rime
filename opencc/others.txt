@@ -925,10 +925,6 @@ Thanos	Thanos 灭霸
 皮卡丘	皮卡丘 Pikachu
 Pikachu	Pikachu 皮卡丘
 Pokemon	Pokemon Pokémon
-德尔塔	德尔塔 Delta
-Delta	Delta 德尔塔
-奥密克戎	奥密克戎 Omicron
-Omicron	Omicron 奥密克戎
 恭喜发财	恭喜发财 恭喜發財
 人上人	人上人 仌
 二百	二百 皕
@@ -974,3 +970,27 @@ Omicron	Omicron 奥密克戎
 十分之一	十分之一 ⅒
 Twitter	Twitter 𝕏
 推特	推特 𝕏
+alpha	alpha α Α
+beta	beta β Β
+gamma	gamma γ Γ
+delta	delta δ Δ
+epsilon	epsilon ε Ε
+zeta	zeta ζ Ζ
+eta	eta η Η
+theta	theta θ Θ
+iota	iota ι Ι
+kappa	kappa κ Κ
+lambda	lambda λ Λ
+mu	mu μ Μ
+nu	nu ν Ν
+xi	xi ξ Ξ
+omicron	omicron ο Ο
+pi	pi π Π
+rho	rho ρ Ρ
+sigma	sigma σ ς Σ
+tau	tau τ Τ
+upsilon	upsilon υ Υ
+phi	phi φ Φ
+chi	chi χ Χ
+psi	psi ψ Ψ
+omega	omega ω Ω
