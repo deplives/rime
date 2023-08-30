@@ -3,7 +3,7 @@
 
 ---
 name: cn_8105
-version: "2023-08-19"
+version: "2023-08-30"
 sort: by_weight
 ...
 
@@ -3645,7 +3645,7 @@ sort: by_weight
 珕	li	0
 𫵷	li	0
 𬍛	li	0
-俩	lia	231043
+俩	lia	0
 连	lian	2453048
 脸	lian	1845354
 联	lian	514908
@@ -4932,14 +4932,14 @@ sort: by_weight
 䓫	qi	0
 𨙸	qi	0
 𬨂	qi	0
-掐	qia	437391
-恰	qia	110670
-洽	qia	13409
-卡	qia	2011
-袷	qia	130
-髂	qia	109
-拤	qia	49
-葜	qia	25
+卡	qia	0
+恰	qia	0
+拤	qia	0
+掐	qia	0
+洽	qia	0
+葜	qia	0
+袷	qia	0
+髂	qia	0
 前	qian	3967855
 钱	qian	1034329
 千	qian	794964
