@@ -3,7 +3,7 @@
 
 ---
 name: en
-version: "2023-08-11"
+version: "2023-09-25"
 sort: by_weight
 ...
 
@@ -3029,6 +3029,7 @@ chevrolet	chevrolet
 chevy	chevy
 chew	chew
 Cheyenne	Cheyenne
+chi	chi
 Chiang	Chiang
 chic	chic
 chicago	chicago
@@ -8275,7 +8276,7 @@ holland	holland
 hollow	hollow
 Holloway	Holloway
 holly	holly
-hollywood	hollywood
+Hollywood	Hollywood
 Holmes	Holmes
 holocaust	holocaust
 holster	holster
@@ -11783,6 +11784,7 @@ nowadays	nowadays
 nowhere	nowhere
 nox	nox
 nozzle	nozzle
+nu	nu
 nuclear	nuclear
 nuclei	nuclei
 nucleic	nucleic
@@ -12797,6 +12799,7 @@ physiol	physiol
 physiological	physiological
 physiology	physiology
 physiopathology	physiopathology
+pi	pi
 pianist	pianist
 piano	piano
 piazza	piazza
@@ -13628,6 +13631,7 @@ PS	PS
 psalm	psalm
 psalms	psalms
 pseudo	pseudo
+psi	psi
 PSP	PSP
 psychiatric	psychiatric
 psychiatry	psychiatry
@@ -17626,7 +17630,7 @@ toxicity	toxicity
 toxicology	toxicology
 toxins	toxins
 toy	toy
-toyota	toyota
+Toyota	Toyota
 toys	toys
 trace	trace
 traced	traced
@@ -18074,7 +18078,7 @@ unfortunate	unfortunate
 unfortunately	unfortunately
 unhappy	unhappy
 UNICEF	UNICEF
-unicode	unicode
+Unicode	Unicode
 unidentified	unidentified
 unified	unified
 uniform	uniform
@@ -19139,6 +19143,7 @@ Xenical	Xenical
 Xeon	Xeon
 xerox	xerox
 XHTML	XHTML
+xi	xi
 XML	XML
 XXL	XXL
 yacht	yacht

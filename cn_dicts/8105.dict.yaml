@@ -3,7 +3,7 @@
 
 ---
 name: cn_8105
-version: "2023-08-30"
+version: "2023-09-25"
 sort: by_weight
 ...
 
@@ -545,6 +545,8 @@ sort: by_weight
 糙	cao	12840
 槽	cao	12412
 漕	cao	2663
+屮	cao	2222
+芔	cao	1111
 艚	cao	50
 螬	cao	26
 𥕢	cao	0
@@ -3259,6 +3261,7 @@ sort: by_weight
 柯	ke	71973
 棵	ke	58780
 壳	ke	41877
+氪	ke	35000
 磕	ke	34654
 嗑	ke	31720
 珂	ke	16769
@@ -3278,7 +3281,6 @@ sort: by_weight
 髁	ke	232
 骒	ke	91
 缂	ke	79
-氪	ke	30
 牁	ke	14
 匼	ke	3
 炣	ke	0
@@ -3705,7 +3707,6 @@ sort: by_weight
 廖	liao	31067
 撩	liao	21011
 寥	liao	20857
-了	liao	20000
 僚	liao	19624
 缭	liao	16457
 燎	liao	9587
@@ -3727,6 +3728,7 @@ sort: by_weight
 憭	liao	6
 簝	liao	4
 橑	liao	1
+了	liao	0
 𪤗	liao	0
 列	lie	244324
 裂	lie	174922
@@ -8126,6 +8128,7 @@ sort: by_weight
 至	zhi	1199059
 之	zhi	1173763
 指	zhi	1099010
+值	zhi	920306
 制	zhi	870792
 支	zhi	532396
 志	zhi	485065
@@ -8135,7 +8138,6 @@ sort: by_weight
 置	zhi	379704
 致	zhi	370734
 职	zhi	326699
-值	zhi	320306
 智	zhi	310406
 纸	zhi	273013
 织	zhi	218959
