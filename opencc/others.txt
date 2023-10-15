@@ -613,7 +613,8 @@
 佐佐木明希	佐佐木明希 佐々木あき
 松本梨穗	松本梨穗 松本梨穂
 佐野由真	佐野由真 佐野ゆま
-谢耳朵	谢耳朵 Sheldon
+天川空	天川空 天川そら
+谢耳朵	谢耳朵 Sheldo
 谢尔顿	谢尔顿 Sheldon
 Sheldon	Sheldon 谢尔顿 谢耳朵
 莱纳德	莱纳德 Leonard
@@ -640,7 +641,7 @@ Ross	Ross 罗斯
 Chandler	Chandler 钱德勒
 菲比	菲比 Phoebe
 Phoebe	Phoebe 菲比
-Cmd	Cmd Command ⌘
+Cmd	Cmd Command 
 Command	Command ⌘
 Ctrl	Ctrl Control ⌃
 Control	Control ⌃
@@ -886,7 +887,7 @@ rime	rime 㞢
 连字符	连字符 －
 破折号	破折号 ——
 反引号	反引号 `
-Apple	Apple 
+apple	apple 
 反问号	反问号 ¿
 约等于	约等于 ≈
 约等	约等 ≈
@@ -934,6 +935,12 @@ Pokemon	Pokemon Pokémon
 毫秒	毫秒 ms millisecond
 微秒	微秒 μs microsecond
 纳秒	纳秒 ns nanosecond
+皮秒	皮秒 ps picosecond
+飞秒	飞秒 fs femtosecond
+阿秒	阿秒 as attosecond
+毫米	毫米 mm millimeter
+微米	微米 μm micrometer
+纳米	纳米 nm nanometer
 掀桌子	掀桌子 (╯'-')╯︵┻━┻ (╯°Д°)╯︵┻━┻
 摆桌子	摆桌子 ┬─┬ノ('-'ノ)
 车马炮	车马炮 車马炮
@@ -945,10 +952,7 @@ Pokemon	Pokemon Pokémon
 贝塔射线	贝塔射线 β射线
 伽马刀	伽马刀 γ刀
 伽马射线	伽马射线 γ射线
-六字真言	六字真言 唵嘛呢叭咪吽 爱玩玩不玩滚
-鲁迅	鲁迅 👨🏻
-周树人	周树人 👨🏻
-鲁迅喂奶	鲁迅喂奶 👨🏻‍🍼
+六字真言	六字真言 爱玩玩不玩滚
 撇	撇 丿
 二分之一	二分之一 ½
 三分之一	三分之一 ⅓
@@ -970,27 +974,4 @@ Pokemon	Pokemon Pokémon
 十分之一	十分之一 ⅒
 Twitter	Twitter 𝕏
 推特	推特 𝕏
-alpha	alpha α Α
-beta	beta β Β
-gamma	gamma γ Γ
-delta	delta δ Δ
-epsilon	epsilon ε Ε
-zeta	zeta ζ Ζ
-eta	eta η Η
-theta	theta θ Θ
-iota	iota ι Ι
-kappa	kappa κ Κ
-lambda	lambda λ Λ
-mu	mu μ Μ
-nu	nu ν Ν
-xi	xi ξ Ξ
-omicron	omicron ο Ο
-pi	pi π Π
-rho	rho ρ Ρ
-sigma	sigma σ ς Σ
-tau	tau τ Τ
-upsilon	upsilon υ Υ
-phi	phi φ Φ
-chi	chi χ Χ
-psi	psi ψ Ψ
-omega	omega ω Ω
+又又又又	又又又又 又双叒叕

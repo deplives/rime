@@ -3,7 +3,7 @@
 
 ---
 name: en
-version: "2023-09-25"
+version: "2023-10-15"
 sort: by_weight
 ...
 
@@ -2598,6 +2598,7 @@ canon	canon
 canonical	canonical
 canopy	canopy
 cans	cans
+can't	can't
 cant	cant
 canteen	canteen
 canterbury	canterbury
@@ -4973,7 +4974,7 @@ dictator	dictator
 dictionaries	dictionaries
 dictionary	dictionary
 did	did
-didn't	didnt
+didn't	didn't
 didrex	didrex
 die	die
 diecast	diecast
@@ -5290,7 +5291,7 @@ dodge	dodge
 dodgers	dodgers
 doe	doe
 does	does
-doesn't	doesnt
+doesn't	doesn't
 dog	dog
 dogg	dogg
 dogs	dogs
@@ -5333,7 +5334,7 @@ Donna	Donna
 donor	donor
 donors	donors
 Donovan	Donovan
-don't	dont
+don't	don't
 doom	doom
 doomed	doomed
 door	door
@@ -8164,6 +8165,7 @@ Hershey	Hershey
 Hertfordshire	Hertfordshire
 hertz	hertz
 Herzegovina	Herzegovina
+he's	he's
 hesitate	hesitate
 Hess	Hess
 heterogeneous	heterogeneous
@@ -8564,7 +8566,6 @@ ignorant	ignorant
 ignore	ignore
 ignored	ignored
 ignoring	ignoring
-ill	ill
 illegal	illegal
 illegally	illegally
 illicit	illicit
@@ -9219,6 +9220,7 @@ islanders	islanders
 islands	islands
 isle	isle
 isles	isles
+isn't	isn't
 ISO	ISO
 isolate	isolate
 isolated	isolated
@@ -9248,7 +9250,7 @@ items	items
 iteration	iteration
 Ithaca	Ithaca
 itinerary	itinerary
-its	its
+it's	it's
 itself	itself
 iTunes	iTunes
 Ivan	Ivan
@@ -9950,7 +9952,7 @@ lest	lest
 Lester	Lester
 let	let
 lethal	lethal
-lets	lets
+let's	let's
 letter	letter
 lettering	lettering
 letters	letters
@@ -11401,6 +11403,7 @@ mutual	mutual
 mutually	mutually
 muze	muze
 MVC	MVC
+my	my
 myanmar	myanmar
 myers	myers
 myocardial	myocardial
@@ -11901,7 +11904,7 @@ ocean	ocean
 Oceania	Oceania
 oceanic	oceanic
 oceans	oceans
-o'clock	oclock
+o'clock	o'clock
 Oct.	Oct
 octave	octave
 octet	octet
@@ -15531,7 +15534,6 @@ sheila	sheila
 Shelby	Shelby
 Sheldon	Sheldon
 shelf	shelf
-shell	shell
 Shelley	Shelley
 shellfish	shellfish
 shells	shells
@@ -17270,7 +17272,7 @@ thanks	thanks
 thanksgiving	thanksgiving
 thanx	thanx
 that	that
-thats	thats
+that's	that's
 the	the
 theater	theater
 theaters	theaters
@@ -17308,7 +17310,7 @@ therefore	therefore
 therein	therein
 thereof	thereof
 thereon	thereon
-Theres	Theres
+there's	there's
 Theresa	Theresa
 thereto	thereto
 thermal	thermal
@@ -17504,7 +17506,7 @@ tobacco	tobacco
 tobago	tobago
 toby	toby
 today	today
-today's	todays
+today's	today's
 Todd	Todd
 toddler	toddler
 toddlers	toddlers
@@ -18837,7 +18839,7 @@ whales	whales
 wharf	wharf
 what	what
 whatever	whatever
-whats	whats
+what's	what's
 whatsoever	whatsoever
 wheat	wheat
 Wheaton	Wheaton
@@ -19030,6 +19032,7 @@ wonderfully	wonderfully
 wondering	wondering
 wonderland	wonderland
 wonders	wonders
+won't	won't
 wont	wont
 woo	woo
 Wood	Wood

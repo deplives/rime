@@ -4,6 +4,8 @@ autocap_filter = require("autocap_filter")
 corrector = require("corrector")
 -- 日期时间
 date_translator = require("date_translator")
+-- 英文词条上屏自动空格
+en_spacer = require("en_spacer")
 -- 中英混输词条自动空格
 en_cn_spacer = require("en_cn_spacer")
 -- 为用户词典的内容结尾加上一个星号

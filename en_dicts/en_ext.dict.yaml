@@ -3,7 +3,7 @@
 
 ---
 name: en_ext
-version: "2023-09-25"
+version: "2023-10-15"
 sort: by_weight
 ...
 
@@ -149,6 +149,18 @@ Windows 7	Windows	7
 Windows 8	Windows	8
 Windows 10	Windows	10
 Windows 11	Windows	11
+
+hell	hell	2
+he'll	hell	1
+shell	shell	2
+she'll	shell	1
+well	well	2
+we'll	well	1
+ill	ill	2
+I'll	ill	1
+ID	id	2
+I'd	id	1
+shed	shed	2
 
 ERC-20	ERC-20
 ERC-721	ERC-721
@@ -2248,3 +2260,16 @@ RustRover	RustRover
 bilibili	bilibili
 Terraria	Terraria
 Unihan	Unihan
+adrift	adrift
+joker	joker
+cannibalistic	cannibalistic
+micrometer	micrometer
+nanometer	nanometer
+DLsite	DLsite
+picosecond	picosecond
+femtosecond	femtosecond
+attosecond	attosecond
+sorta	sorta
+lemme	lemme
+outta	outta
+whatcha	whatcha
