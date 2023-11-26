@@ -3,7 +3,7 @@
 
 ---
 name: cn_8105
-version: "2023-10-15"
+version: "2023-11-26"
 sort: by_weight
 ...
 
@@ -930,11 +930,11 @@ sort: by_weight
 䲠	chun	0
 堾	chun	0
 𬭚	chun	0
-绰	chuo	27937
 戳	chuo	20671
 啜	chuo	9057
 龊	chuo	7295
 辍	chuo	3649
+绰	chuo	2793
 踔	chuo	162
 惙	chuo	15
 逴	chuo	4
@@ -2875,7 +2875,6 @@ sort: by_weight
 揭	jie	57148
 竭	jie	48555
 届	jie	38051
-价	jie	23092
 藉	jie	20781
 婕	jie	19606
 睫	jie	18742
@@ -2884,6 +2883,7 @@ sort: by_weight
 芥	jie	7468
 桔	jie	7128
 诘	jie	3733
+价	jie	3500
 颉	jie	3359
 嗟	jie	3220
 孑	jie	2490
@@ -4146,8 +4146,8 @@ sort: by_weight
 糜	mei	1
 媄	mei	0
 瑂	mei	0
-门	men	2233462
 们	men	1074187
+门	men	223346
 闷	men	203501
 懑	men	2697
 扪	men	2344
@@ -5035,7 +5035,7 @@ sort: by_weight
 樵	qiao	8689
 撬	qiao	6740
 锹	qiao	4077
-壳	qiao	2000
+壳	qiao	3000
 谯	qiao	1914
 橇	qiao	1666
 诮	qiao	1506

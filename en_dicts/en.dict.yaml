@@ -3,7 +3,7 @@
 
 ---
 name: en
-version: "2023-10-15"
+version: "2023-11-26"
 sort: by_weight
 ...
 
@@ -1842,7 +1842,6 @@ bindings	bindings
 binds	binds
 bingo	bingo
 binoculars	binoculars
-bins	bins
 bio	bio
 biochem	biochem
 biochemical	biochemical
@@ -5361,7 +5360,7 @@ doubles	doubles
 doubt	doubt
 doubtless	doubtless
 doubts	doubts
-doug	doug
+Doug	Doug
 dough	dough
 doughty	doughty
 Douglas	Douglas
@@ -7051,7 +7050,6 @@ fourth	fourth
 fowl	fowl
 fowler	fowler
 fox	fox
-Fox	Fox
 FPS	FPS
 fraction	fraction
 fractional	fractional
@@ -7778,7 +7776,7 @@ grumble	grumble
 grunt	grunt
 GTA	GTA
 Guadeloupe	Guadeloupe
-guam	guam
+Guam	Guam
 guarantee	guarantee
 guaranteed	guaranteed
 guarantees	guarantees
@@ -7922,7 +7920,7 @@ Hannah	Hannah
 Hannover	Hannover
 Hanoi	Hanoi
 Hanover	Hanover
-hans	hans
+Hans	Hans
 Hansard	Hansard
 hansen	hansen
 Hanson	Hanson
@@ -11421,7 +11419,6 @@ mystical	mystical
 myth	myth
 mythology	mythology
 myths	myths
-nad	nad
 nail	nail
 nails	nails
 Nairobi	Nairobi
@@ -11432,7 +11429,7 @@ named	named
 namely	namely
 names	names
 namespace	namespace
-namibia	namibia
+Namibia	Namibia
 naming	naming
 nan	nan
 Nancy	Nancy
@@ -12661,7 +12658,7 @@ peripheral	peripheral
 peripherals	peripherals
 perish	perish
 Perkins	Perkins
-perl	perl
+Perl	Perl
 permalink	permalink
 permanent	permanent
 permanently	permanently
@@ -13029,7 +13026,7 @@ poison	poison
 poisoning	poisoning
 poisonous	poisonous
 poke	poke
-pokemon	pokemon
+Pokemon	Pokemon
 poker	poker
 Poland	Poland
 polar	polar
@@ -15737,7 +15734,7 @@ sing	sing
 Singapore	Singapore
 singer	singer
 singers	singers
-singh	singh
+Singh	Singh
 singing	singing
 single	single
 singled	singled
@@ -15779,7 +15776,6 @@ size	size
 sized	sized
 sizes	sizes
 sizing	sizing
-ska	ska
 skate	skate
 skateboard	skateboard
 skateboarding	skateboarding
@@ -19023,7 +19019,7 @@ Wolverhampton	Wolverhampton
 wolves	wolves
 woman	woman
 women	women
-womens	womens
+women's	women's
 won	won
 wonder	wonder
 wondered	wondered
