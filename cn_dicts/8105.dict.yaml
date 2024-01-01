@@ -3,7 +3,7 @@
 
 ---
 name: cn_8105
-version: "2023-11-26"
+version: "2024-01-01"
 sort: by_weight
 ...
 
@@ -18,7 +18,7 @@ sort: by_weight
 
 啊	a	5366043
 阿	a	867275
-吖	a	854
+吖	a	160000
 锕	a	144
 腌	a	1
 爱	ai	1516399
@@ -550,10 +550,10 @@ sort: by_weight
 艚	cao	50
 螬	cao	26
 𥕢	cao	0
-策	ce	213136
+测	ce	288406
 侧	ce	199092
-测	ce	188406
 册	ce	53084
+策	ce	52131
 厕	ce	45544
 恻	ce	7439
 岑	cen	10316
@@ -3992,7 +3992,6 @@ sort: by_weight
 瘰	luo	77
 泺	luo	58
 蓏	luo	10
-虑	lv	257747
 绿	lv	245485
 律	lv	223633
 率	lv	217561
@@ -4005,6 +4004,7 @@ sort: by_weight
 履	lv	28690
 捋	lv	9568
 滤	lv	5489
+虑	lv	5374
 褛	lv	4042
 铝	lv	3934
 闾	lv	3205
@@ -6434,6 +6434,7 @@ sort: by_weight
 硙	wei	2
 薳	wei	2
 峗	wei	1
+崴	wei	1
 洈	wei	1
 螱	wei	0
 鳂	wei	0
@@ -7098,6 +7099,7 @@ sort: by_weight
 雅	ya	387226
 牙	ya	300629
 丫	ya	183167
+吖	ya	160000
 讶	ya	157124
 涯	ya	68222
 哑	ya	65950

@@ -105,8 +105,6 @@ Ross	Ross
 Chandler	Chandler
 Phoebe	Phoebe
 
-shell	shell
-
 iPhone	iPhone	999
 iPhone 15	iPhone	4
 iPhone 15 Plus	iPhone	3
@@ -394,7 +392,6 @@ WYSIWYG	WYSIWYG
 What You See Is What You Get	WYSIWYG
 Mark Text	MarkText
 Joplin	Joplin
-Obsidian	Obsidian
 SteamOS	SteamOS
 TikTok	TikTok
 IDC	IDC
@@ -449,7 +446,6 @@ IntelliJ	IntelliJ
 IntelliJ IDEA	IntelliJIDEA
 IntelliJ IDEA Community	IntelliJIDEACommunity
 IntelliJ IDEA Ultimate	IntelliJIDEAUltimate
-IDEA	IDEA
 IDEA Community	IDEACommunity
 IDEA Ultimate	IDEAUltimate
 IDE	IDE
@@ -547,6 +543,7 @@ markdown	markdown
 Microsoft Access	Access
 MongoDB	MongoDB
 MySQL	MySQL
+Hive	Hive
 Node.js	Node.js
 Pornhub	Pornhub
 PostgreSQL	PostgreSQL
@@ -795,7 +792,6 @@ PlistEdit	pliPlistEdit
 PopClip	PopClip
 PowerPack	PowerPack
 Privoxy	Privoxy
-Pro	Pro
 Promotee	Promotee
 Proxifier	Proxifier
 Public Beta	PublicBeta
@@ -2331,3 +2327,23 @@ wailing	wailing
 PK	PK
 WireGuard	WireGuard
 AdGuard	AdGuard
+Altman	Altman
+Ultraman	Ultraman
+silicones	silicones
+GPTs	GPTs
+sider	sider
+DALL·E	DALL·E
+keychain	keychain
+keychains	keychains
+guile	guile
+e.g.	e.g.
+i.e.	i.e.
+et al.	etal.
+Zettlr	Zettlr
+Codium	Codium
+CodiumAI	CodiumAI
+SaaS	SaaS
+Software as a service	SaaS
+gitignore	gitignore
+.gitignore	.gitignore
+humankind	humankind
